@@ -1,0 +1,19 @@
+[{
+    "firstName": "Clark",
+    "lastName": "Kent",
+    "job" : "images/bottle.jpg",
+    "roll": 30
+},
+{
+    "firstName": "Bruce",
+    "lastName": "Wayne",
+    "job": "Playboy",
+    "roll": 30
+},
+{
+    "firstName": "Peter",
+    "lastName": "Parker",
+    "job": "Photographer",
+    "roll": 40
+}]
+
